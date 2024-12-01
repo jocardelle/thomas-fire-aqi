@@ -13,21 +13,36 @@ The Thomas Fire, which burned across Santa Barbara and Ventura counties in Decem
 
 ## Repository Structure
 
-── thomas-fire-sb                 
-|   └── README.md                             
-|   └── thomas_fire_aqi.ipynb                             
-|   └── thomas_fire_imagery.ipynb                        
-|   └── images/                           
+── thomas-fire-sb  
+
+|   └── README.md
+
+|   └── thomas_fire_aqi.ipynb
+
+|   └── thomas_fire_imagery.ipynb
+
+|   └── images/  
+
 |      └── thomas_fire_palms.jpeg 
-|   └── .gitignore   
+
+|   └── .gitignore  
+
 |      └── data/ 
-|         └── California_Fire_Perimeters  
+
+|         └── California_Fire_Perimeters 
+
 |            └── California_Fire_Perimeters_(all).cpg
+
 |            └── California_Fire_Perimeters_(all).dbf
+
 |            └── California_Fire_Perimeters_(all).prj
+
 |            └── California_Fire_Perimeters_(all).shp
+
 |            └── California_Fire_Perimeters_(all).shp.xml
+
 |            └── California_Fire_Perimeters_(all).shx
+
 |         └── landsat8-2018-01-26-sb-simplified.nc 
 
 
@@ -41,4 +56,14 @@ The AQI datasets are available to download via the url. The fire perimeter data 
 
 ## References
 
+Daily AQI by County for 2017
+U.S. Environmental Protection Agency. (n.d.). Daily air quality index (AQI) by county: 2017 [Data set]. Air Quality System (AQS) Data Mart. Retrieved December 1, 2024, from https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI
 
+Daily AQI by County for 2018
+U.S. Environmental Protection Agency. (n.d.). Daily air quality index (AQI) by county: 2018 [Data set]. Air Quality System (AQS) Data Mart. Retrieved December 1, 2024, from https://aqs.epa.gov/aqsweb/airdata/download_files.html#AQI
+
+California Fire Perimeters
+U.S. Geological Survey. (n.d.). California Fire Perimeters - All. Data.gov. Retrieved November 17, 2024, from https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
+
+Landsat Collection 2 Level 2 Data
+Microsoft Planetary Computer. (n.d.). Landsat Collection 2 Level 2 Dataset. Retrieved December 1, 2024, from https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
