@@ -1,7 +1,5 @@
 # Visualizing the effects of the 2017 Thomas Fire in Santa Barbara County
 
-[Github Repository](https://github.com/jocardelle/thomas-fire-aqi)
-
 ## About
 
 The Thomas Fire, which burned across Santa Barbara and Ventura counties in December 2017, has been one of California’s largest wildfires, devastating over 280,000 acres of land. The fire started on December 4, 2017 and was considered contained on January 2, 2018. In this task, I first used [Air Quality Index (AQI)](https://www.airnow.gov/aqi/aqi-basics/) data from the [US Environmental Protection Agency](https://www.epa.gov) to visualize the impact on the AQI of the 2017 [Thomas Fire](https://en.wikipedia.org/wiki/Thomas_Fire) in Santa Barbara County. I then visualized the effects of the fire on the land through using true and false color imagery.
