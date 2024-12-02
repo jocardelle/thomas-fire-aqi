@@ -28,7 +28,7 @@ The Thomas Fire, which burned across Santa Barbara and Ventura counties in Decem
 |      └── California_Fire_Perimeters_(all).shp
 |      └── California_Fire_Perimeters_(all).shp.xml
 |      └── California_Fire_Perimeters_(all).shx
-|      └── landsat8-2018-01-26-sb-simplified.nc 
+|    └── landsat8-2018-01-26-sb-simplified.nc 
 ```
 
 
